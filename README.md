@@ -7,7 +7,6 @@ Permite sumar puntos a dos equipos (Home y Guest) de forma interactiva mediante 
 
 -  Suma de **1, 2 o 3 puntos** a cada equipo.  
 -  Actualización del marcador en tiempo real.  
--  Posibilidad de reiniciar el marcador (opcional si lo agregaste).
 
 *Tecnologías utilizadas
 
