@@ -1,19 +1,28 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+-Marcador de Baloncesto
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+Este es un proyecto sencillo creado con **HTML**, **CSS** y **JavaScript** que simula un marcador de baloncesto.  
+Permite sumar puntos a dos equipos (Home y Guest) de forma interactiva mediante botones.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+-Características
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- ➕ Suma de **1, 2 o 3 puntos** a cada equipo.  
+- 🔄 Actualización del marcador en tiempo real.  
+- 🧼 Posibilidad de reiniciar el marcador (opcional si lo agregaste).
 
-Happy Coding!
+-Tecnologías utilizadas
+
+- HTML – Estructura del marcador.  
+- CSS – Estilos y diseño visual.  
+- JavaScript – Lógica para la suma de puntos y actualización de la interfaz.
+
+- Cómo usarlo
+
+1. Clona o descarga este repositorio.  
+2. Abre el archivo `index.html` en tu navegador.  
+3. Usa los botones para sumar puntos a cada equipo y ver cómo cambia el marcador en tiempo real.
+
+Vista previa
+<img width="733" height="567" alt="Captura de pantalla 2025-10-01 112240" src="https://github.com/user-attachments/assets/92151d1b-7d5d-4462-8a56-2b08251f4f33" />
+
+---
+*Proyecto creado como práctica para mejorar conocimientos en *manipulación del DOM, eventos y actualización dinámica de contenido con JavaScript.
