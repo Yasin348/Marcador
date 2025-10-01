@@ -22,6 +22,8 @@ Permite sumar puntos a dos equipos (Home y Guest) de forma interactiva mediante 
 3. Usa los botones para sumar puntos a cada equipo y ver cómo cambia el marcador en tiempo real.
 
 *Vista previa
+
+
 <img width="733" height="567" alt="Captura de pantalla 2025-10-01 112240" src="https://github.com/user-attachments/assets/92151d1b-7d5d-4462-8a56-2b08251f4f33" />
 
 ---
