@@ -1,0 +1,31 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <link rel="stylesheet" href="https://fonts.cdnfonts.com/css/cursed-timer-ulil">
+    </head>
+    <body>
+        <div class="container">
+            <div>
+                <h3>HOME</h3>
+                <div id="homescore" class="Local">0</div>
+                    
+                    <div class="botones-home">
+                    <button class="boton-sumar" onclick="sumarHome(1)">+1</button>
+                    <button class="boton-sumar" onclick="sumarHome(2)">+2</button>
+                    <button class="boton-sumar" onclick="sumarHome(3)">+3</button>
+                    </div>
+            </div>
+            <div>
+                <h3>GUEST</h3>
+                    <div id= "guestscore" class="Guest">0</div>
+                    
+                    <div class="botones-guest">
+                    <button class="boton-sumar" onclick="sumarGuest(1)">+1</button>
+                    <button class="boton-sumar" onclick="sumarGuest(2)">+2</button>
+                    <button class="boton-sumar" onclick="sumarGuest(3)">+3</button>
+                    </div>
+            </div>
+        </div>
+        <script src="index.js"></script>
+    </body>
+</html>

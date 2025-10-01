@@ -1,0 +1,71 @@
+body {
+    margin: 0;
+    background-color: #1B244A;
+    width: 100vw;
+    height: 100vh;
+    
+}
+
+h3 {
+color: white;
+font-size: 35px;
+margin-left: 20px;
+    
+}
+
+
+.Local {
+ width: 160px;
+ height: 100px;
+ padding-top: 20px;
+ display: flex;
+ justify-content: center;
+ font-size: 90px;
+ color: red;
+ background-color: black;
+ border-radius: 5px;
+ font-family: Cursed Timer ULiL;
+    
+}
+
+.boton-sumar {
+ display: flex;
+ margin-top: 20px;
+ color: #9AABD8;
+ background: transparent;
+ border: 1px solid white; 
+ border-radius: 5px;
+ font-family: Cursed Timer ULiL;
+ padding: 6px 
+   
+    
+}
+
+
+.botones-home,
+.botones-guest{
+  display: flex;
+  gap: 10px; 
+  justify-content: center;  
+    
+}
+
+.Guest {
+ width: 160px;
+ height: 110px;
+ padding-top: 20px;
+ display: flex;
+ justify-content: center;
+ font-size: 90px;
+ color: red;
+ background-color: black;
+ border-radius: 5px;
+ font-family: Cursed Timer ULiL;
+    
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
